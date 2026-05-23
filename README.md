@@ -16,7 +16,13 @@ I am a Computer Science student passionate about frontend development and buildi
 </p>
 
 ## Connect with me
-[www.linkedin.com/in/nelom-akter-elma](www.linkedin.com/in/nelom-akter-elma) | [Facebook](your-link) | [Email](mailto:your-email)
+## Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/nelom-akter-elma/)
+
+[Facebook](https://www.facebook.com/nelom.akter.elma/)
+
+[Email](mailto:playwithprogramme@gmail.com)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
