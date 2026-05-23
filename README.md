@@ -1,4 +1,4 @@
-<img src="https://www.linkedin.com/in/nelom-akter-elma/overlay/background-photo/" alt="Banner" width="100%" />
+<img src="banner - Copy.jpeg" alt="Banner" width="100%" />
 
 # Hi, I'm Nelom Akter Elma
 ### Frontend Developer | Computer Science Student
