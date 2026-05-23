@@ -1,16 +1,26 @@
-## Hi there 👋
+<img src="your-banner-image-link" alt="Banner" width="100%" />
 
-<!--
-**nelomelma/nelomelma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Nelom Akter Elma
+### Frontend Developer | Computer Science Student
 
-Here are some ideas to get you started:
+## About Me
+I am a Computer Science student passionate about frontend development and building responsive web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I am currently learning React and Next.js
+- I am working on web development projects
+- I am improving my JavaScript and problem-solving skills
+
+## Skills
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,github,vscode" />
+</p>
+
+## Connect with me
+[LinkedIn](your-link) | [Facebook](your-link) | [Email](mailto:your-email)
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
