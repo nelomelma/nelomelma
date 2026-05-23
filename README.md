@@ -22,7 +22,7 @@ I am a Computer Science student passionate about frontend development and buildi
 
 [Facebook](https://www.facebook.com/nelom.akter.elma/)
 
-[Email](mailto:playwithprogramme@gmail.com)
+[Email](mailto:nelomelma74@gmail.com)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
