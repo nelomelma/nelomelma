@@ -24,9 +24,10 @@ I am a Computer Science student passionate about frontend development and buildi
 
 [Email](mailto:nelomelma74@gmail.com)
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nelomelma&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nelomelma&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nelomelma&theme=tokyonight)
