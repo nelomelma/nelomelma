@@ -16,7 +16,6 @@ I am a Computer Science student passionate about frontend development and buildi
 </p>
 
 ## Connect with me
-## Connect with me
 
 [LinkedIn](https://www.linkedin.com/in/nelom-akter-elma/)
 
@@ -27,9 +26,10 @@ I am a Computer Science student passionate about frontend development and buildi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nelomelma&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nelomelma&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelomelma&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nelomelma&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nelomelma&theme=github_dark" />
 </p>
